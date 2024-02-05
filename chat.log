@@ -1,0 +1,273 @@
+2024-02-05T14:37:17.411Z ::1 GET / User accessed homepage
+2024-02-05T14:37:17.478Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:37:21.631Z ::1 CHAT JOIN Chat Room User with nickname impeculiar joined the chat
+2024-02-05T14:37:24.044Z ::1 CHAT MESSAGE Chat Room Message impeculiar: Hello
+2024-02-05T14:41:15.278Z ::1 CHAT MESSAGE Chat Room Message impeculiar: Hello
+2024-02-05T14:51:51.089Z ::1 DISCONNECTION Socket Disconnection User with nickname impeculiar left the chat
+2024-02-05T14:51:51.095Z ::1 GET / User accessed homepage
+2024-02-05T14:51:51.167Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:52:50.212Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:52:50.222Z ::1 GET / User accessed homepage
+2024-02-05T14:52:50.272Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:52:56.744Z ::1 CHAT JOIN Chat Room User with nickname impeculiar joined the chat
+2024-02-05T14:54:15.335Z ::1 DISCONNECTION Socket Disconnection User with nickname impeculiar left the chat
+2024-02-05T14:54:15.346Z ::1 GET / User accessed homepag
+2024-02-05T14:54:15.387Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:56:44.629Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:56:44.639Z ::1 GET / User accessed homepage
+2024-02-05T14:56:44.674Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:57:40.175Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:57:40.183Z ::1 GET / User accessed homepage
+2024-02-05T14:57:40.221Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:57:41.123Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:57:41.132Z ::1 GET / User accessed homepage
+2024-02-05T14:57:41.172Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:57:56.194Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:57:56.204Z ::1 GET / User accessed homepage
+2024-02-05T14:57:56.242Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:58:03.597Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:58:03.608Z ::1 GET / User accessed homepage
+2024-02-05T14:58:03.654Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:58:45.121Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:58:45.132Z ::1 GET / User accessed homepage
+2024-02-05T14:58:45.172Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:58:45.975Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:58:45.983Z ::1 GET / User accessed homepage
+2024-02-05T14:58:46.021Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:58:53.144Z ::1 GET / User accessed homepage
+2024-02-05T14:58:53.203Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:58:53.897Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:58:53.903Z ::1 GET / User accessed homepage
+2024-02-05T14:58:53.943Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:59:33.047Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:59:33.057Z ::1 GET / User accessed homepage
+2024-02-05T14:59:33.098Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:59:33.944Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:59:33.953Z ::1 GET / User accessed homepage
+2024-02-05T14:59:33.992Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:59:56.062Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:59:56.073Z ::1 GET / User accessed homepage
+2024-02-05T14:59:56.113Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T14:59:59.710Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T14:59:59.714Z ::1 GET / User accessed homepage
+2024-02-05T14:59:59.747Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:00:00.762Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:00:04.224Z ::1 GET / User accessed homepage
+2024-02-05T15:00:04.265Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:00:37.297Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:00:37.307Z ::1 GET / User accessed homepage
+2024-02-05T15:00:37.348Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:01:03.914Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:01:03.924Z ::1 GET / User accessed homepage
+2024-02-05T15:01:03.963Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:01:15.833Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:01:15.845Z ::1 GET / User accessed homepage
+2024-02-05T15:01:15.887Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:01:21.890Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:01:21.900Z ::1 GET / User accessed homepage
+2024-02-05T15:01:21.941Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:01:26.611Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:01:26.620Z ::1 GET / User accessed homepage
+2024-02-05T15:01:26.661Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:01:33.724Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:01:33.733Z ::1 GET / User accessed homepage
+2024-02-05T15:01:33.771Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:01:41.002Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:01:41.013Z ::1 GET / User accessed homepage
+2024-02-05T15:01:41.053Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:01:57.857Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:01:57.863Z ::1 GET / User accessed homepage
+2024-02-05T15:01:57.898Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:02:03.074Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:02:03.084Z ::1 GET / User accessed homepage
+2024-02-05T15:02:03.124Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:02:06.543Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:02:06.549Z ::1 GET / User accessed homepage
+2024-02-05T15:02:06.587Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:02:11.946Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:02:11.956Z ::1 GET / User accessed homepage
+2024-02-05T15:02:11.993Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:09:37.631Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:09:37.642Z ::1 GET / User accessed homepage
+2024-02-05T15:09:37.692Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:10:34.919Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:10:34.930Z ::1 GET / User accessed homepage
+2024-02-05T15:10:34.972Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:11:22.502Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:11:22.513Z ::1 GET / User accessed homepage
+2024-02-05T15:11:22.552Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:12:10.220Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:12:10.230Z ::1 GET / User accessed homepage
+2024-02-05T15:12:10.274Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:12:14.856Z ::1 CHAT JOIN Chat Room User with nickname impeculiar joined the chat
+2024-02-05T15:12:17.673Z ::1 CHAT MESSAGE Chat Room Message impeculiar: Hello
+2024-02-05T15:12:45.117Z ::1 DISCONNECTION Socket Disconnection User with nickname impeculiar left the chat
+2024-02-05T15:12:45.128Z ::1 GET / User accessed homepage
+2024-02-05T15:12:45.171Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:12:48.305Z ::1 CHAT JOIN Chat Room User with nickname impeculiar joined the chat
+2024-02-05T15:12:51.206Z ::1 CHAT MESSAGE Chat Room Message impeculiar: Hello
+2024-02-05T15:13:10.579Z ::1 DISCONNECTION Socket Disconnection User with nickname impeculiar left the chat
+2024-02-05T15:13:10.589Z ::1 GET / User accessed homepage
+2024-02-05T15:13:10.628Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:13:14.371Z ::1 CHAT JOIN Chat Room User with nickname impecliar joined the chat
+2024-02-05T15:13:16.638Z ::1 CHAT MESSAGE Chat Room Message impecliar: hello
+2024-02-05T15:14:11.714Z ::1 DISCONNECTION Socket Disconnection User with nickname impecliar left the chat
+2024-02-05T15:14:11.724Z ::1 GET / User accessed homepage
+2024-02-05T15:14:11.762Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:14:15.791Z ::1 CHAT JOIN Chat Room User with nickname hello joined the chat
+2024-02-05T15:14:19.691Z ::1 CHAT MESSAGE Chat Room Message hello: 123
+2024-02-05T15:14:28.812Z ::1 DISCONNECTION Socket Disconnection User with nickname hello left the chat
+2024-02-05T15:14:28.822Z ::1 GET / User accessed homepage
+2024-02-05T15:14:28.861Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:14:30.855Z ::1 CHAT JOIN Chat Room User with nickname d joined the chat
+2024-02-05T15:14:50.236Z ::1 DISCONNECTION Socket Disconnection User with nickname d left the chat
+2024-02-05T15:14:50.245Z ::1 GET / User accessed homepage
+2024-02-05T15:14:50.286Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:14:52.104Z ::1 CHAT JOIN Chat Room User with nickname 1 joined the chat
+2024-02-05T15:15:34.778Z ::1 DISCONNECTION Socket Disconnection User with nickname 1 left the chat
+2024-02-05T15:15:34.788Z ::1 GET / User accessed homepage
+2024-02-05T15:15:34.827Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:15:36.273Z ::1 CHAT JOIN Chat Room User with nickname 1 joined the chat
+2024-02-05T15:15:37.457Z ::1 CHAT MESSAGE Chat Room Message 1: d
+2024-02-05T15:15:38.922Z ::1 CHAT MESSAGE Chat Room Message 1: 2
+2024-02-05T15:15:40.138Z ::1 CHAT MESSAGE Chat Room Message 1: 3
+2024-02-05T15:15:57.982Z ::1 DISCONNECTION Socket Disconnection User with nickname 1 left the chat
+2024-02-05T15:15:57.990Z ::1 GET / User accessed homepage
+2024-02-05T15:15:58.028Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:15:59.522Z ::1 CHAT JOIN Chat Room User with nickname 123 joined the chat
+2024-02-05T15:16:04.644Z ::1 DISCONNECTION Socket Disconnection User with nickname 123 left the chat
+2024-02-05T15:16:04.655Z ::1 GET / User accessed homepage
+2024-02-05T15:16:04.691Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:16:05.990Z ::1 CHAT JOIN Chat Room User with nickname d joined the chat
+2024-02-05T15:16:11.237Z ::1 CHAT MESSAGE Chat Room Message d: asd
+2024-02-05T15:16:53.626Z ::1 DISCONNECTION Socket Disconnection User with nickname d left the chat
+2024-02-05T15:16:53.635Z ::1 GET / User accessed homepage
+2024-02-05T15:16:53.698Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:16:56.406Z ::1 CHAT JOIN Chat Room User with nickname 123 joined the chat
+2024-02-05T15:17:17.539Z ::1 DISCONNECTION Socket Disconnection User with nickname 123 left the chat
+2024-02-05T15:17:17.548Z ::1 GET / User accessed homepage
+2024-02-05T15:17:17.583Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:17:28.499Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:17:28.507Z ::1 GET / User accessed homepage
+2024-02-05T15:17:28.542Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:17:44.284Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:17:44.294Z ::1 GET / User accessed homepage
+2024-02-05T15:17:44.333Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:18:21.019Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:18:21.030Z ::1 GET / User accessed homepage
+2024-02-05T15:18:21.069Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:18:36.083Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:18:36.094Z ::1 GET / User accessed homepage
+2024-02-05T15:18:36.134Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:18:42.860Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:18:42.870Z ::1 GET / User accessed homepage
+2024-02-05T15:18:42.910Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:18:43.589Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:18:46.350Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:18:46.357Z ::1 GET / User accessed homepage
+2024-02-05T15:18:46.395Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:18:52.505Z ::1 CHAT JOIN Chat Room User with nickname impeculiar joined the chat
+2024-02-05T15:18:55.973Z ::1 CHAT MESSAGE Chat Room Message impeculiar: Hello
+2024-02-05T15:19:02.405Z ::1 CHAT MESSAGE Chat Room Message impeculiar: 23
+2024-02-05T15:19:04.526Z ::1 CHAT MESSAGE Chat Room Message impeculiar: 3
+2024-02-05T15:19:05.589Z ::1 CHAT MESSAGE Chat Room Message impeculiar: 3
+2024-02-05T15:19:07.474Z ::1 CHAT MESSAGE Chat Room Message impeculiar: 4
+2024-02-05T15:19:09.287Z ::1 CHAT MESSAGE Chat Room Message impeculiar: 5
+2024-02-05T15:19:24.033Z ::1 DISCONNECTION Socket Disconnection User with nickname impeculiar left the chat
+2024-02-05T15:19:24.042Z ::1 GET / User accessed homepage
+2024-02-05T15:19:24.078Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:19:27.605Z ::1 CHAT JOIN Chat Room User with nickname 123 joined the chat
+2024-02-05T15:19:29.655Z ::1 CHAT MESSAGE Chat Room Message 123: 2
+2024-02-05T15:19:31.156Z ::1 CHAT MESSAGE Chat Room Message 123: 3
+2024-02-05T15:19:32.287Z ::1 CHAT MESSAGE Chat Room Message 123: 4
+2024-02-05T15:19:42.135Z ::1 DISCONNECTION Socket Disconnection User with nickname 123 left the chat
+2024-02-05T15:19:42.144Z ::1 GET / User accessed homepage
+2024-02-05T15:19:42.183Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:19:44.938Z ::1 CHAT JOIN Chat Room User with nickname 123 joined the chat
+2024-02-05T15:19:47.640Z ::1 CHAT MESSAGE Chat Room Message 123: 2
+2024-02-05T15:19:48.973Z ::1 CHAT MESSAGE Chat Room Message 123: 3
+2024-02-05T15:19:50.704Z ::1 CHAT MESSAGE Chat Room Message 123: 4
+2024-02-05T15:19:56.856Z ::1 DISCONNECTION Socket Disconnection User with nickname 123 left the chat
+2024-02-05T15:19:56.864Z ::1 GET / User accessed homepage
+2024-02-05T15:19:56.904Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:19:58.788Z ::1 CHAT JOIN Chat Room User with nickname 123 joined the chat
+2024-02-05T15:20:00.121Z ::1 CHAT MESSAGE Chat Room Message 123: d
+2024-02-05T15:20:01.055Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:20:02.154Z ::1 CHAT MESSAGE Chat Room Message 123: g
+2024-02-05T15:20:03.071Z ::1 CHAT MESSAGE Chat Room Message 123: h
+2024-02-05T15:20:04.504Z ::1 CHAT MESSAGE Chat Room Message 123: d
+2024-02-05T15:20:05.773Z ::1 CHAT MESSAGE Chat Room Message 123: s
+2024-02-05T15:20:07.207Z ::1 CHAT MESSAGE Chat Room Message 123: w
+2024-02-05T15:20:08.954Z ::1 CHAT MESSAGE Chat Room Message 123: a
+2024-02-05T15:20:10.187Z ::1 CHAT MESSAGE Chat Room Message 123: s
+2024-02-05T15:20:11.140Z ::1 CHAT MESSAGE Chat Room Message 123: d
+2024-02-05T15:20:12.438Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:20:13.875Z ::1 CHAT MESSAGE Chat Room Message 123: g
+2024-02-05T15:20:15.291Z ::1 CHAT MESSAGE Chat Room Message 123: a
+2024-02-05T15:20:16.309Z ::1 CHAT MESSAGE Chat Room Message 123: s
+2024-02-05T15:20:17.289Z ::1 CHAT MESSAGE Chat Room Message 123: d
+2024-02-05T15:20:21.757Z ::1 CHAT MESSAGE Chat Room Message 123: d
+2024-02-05T15:20:57.651Z ::1 DISCONNECTION Socket Disconnection User with nickname 123 left the chat
+2024-02-05T15:20:57.660Z ::1 GET / User accessed homepage
+2024-02-05T15:20:57.698Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:21:02.733Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:21:02.739Z ::1 GET / User accessed homepage
+2024-02-05T15:21:02.772Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:21:50.051Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:21:50.061Z ::1 GET / User accessed homepage
+2024-02-05T15:21:50.099Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:21:56.377Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:21:56.385Z ::1 GET / User accessed homepage
+2024-02-05T15:21:56.422Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:21:59.553Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:21:59.561Z ::1 GET / User accessed homepage
+2024-02-05T15:21:59.599Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:22:05.772Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:22:07.291Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:22:11.303Z ::1 GET / User accessed homepage
+2024-02-05T15:22:11.341Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:22:15.087Z ::1 CHAT JOIN Chat Room User with nickname impeculiar joined the chat
+2024-02-05T15:22:18.421Z ::1 CHAT MESSAGE Chat Room Message impeculiar: Hello
+2024-02-05T15:22:33.588Z ::1 DISCONNECTION Socket Disconnection User with nickname impeculiar left the chat
+2024-02-05T15:22:33.598Z ::1 GET / User accessed homepage
+2024-02-05T15:22:33.636Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:22:38.747Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:22:38.757Z ::1 GET / User accessed homepage
+2024-02-05T15:22:38.796Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:22:42.401Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:22:42.410Z ::1 GET / User accessed homepage
+2024-02-05T15:22:42.449Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:22:45.448Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:22:45.455Z ::1 GET / User accessed homepage
+2024-02-05T15:22:45.489Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:22:58.910Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:22:58.921Z ::1 GET / User accessed homepage
+2024-02-05T15:22:58.960Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:23:02.820Z ::1 CHAT JOIN Chat Room User with nickname 123 joined the chat
+2024-02-05T15:23:04.489Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:23:05.355Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:23:06.140Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:23:06.908Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:23:07.688Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:23:08.458Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:23:09.239Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:23:10.505Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:23:11.490Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:23:12.386Z ::1 CHAT MESSAGE Chat Room Message 123: f
+2024-02-05T15:23:18.133Z ::1 GET / User accessed homepage
+2024-02-05T15:23:18.202Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:23:22.937Z ::1 CHAT JOIN Chat Room User with nickname admin joined the chat
+2024-02-05T15:23:29.405Z ::1 CHAT MESSAGE Chat Room Message 123: Hello admin
+2024-02-05T15:23:34.757Z ::1 DISCONNECTION Socket Disconnection User with nickname 123 left the chat
+2024-02-05T15:23:42.821Z ::1 GET / User accessed homepage
+2024-02-05T15:23:42.858Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:23:45.416Z ::1 DISCONNECTION Socket Disconnection User with nickname admin left the chat
+2024-02-05T15:25:34.919Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:25:45.810Z ::1 GET / User accessed homepage
+2024-02-05T15:25:45.863Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:25:49.528Z ::1 CHAT JOIN Chat Room User with nickname admin joined the chat
+2024-02-05T15:25:52.028Z ::1 GET / User accessed homepage
+2024-02-05T15:25:52.069Z ::1 CONNECTION Socket Connection User connected to chat
+2024-02-05T15:25:55.527Z ::1 CHAT JOIN Chat Room User with nickname impeculiar joined the chat
+2024-02-05T15:26:45.798Z ::1 DISCONNECTION Socket Disconnection User with nickname undefined left the chat
+2024-02-05T15:26:57.204Z ::1 DISCONNECTION Socket Disconnection User with nickname admin left the chat

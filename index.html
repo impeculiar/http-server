@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Online Chat</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <style>
+            .chat {
+                height: 100vh;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+            .chat-p {
+                background: skyblue;
+                width: 60%;
+                border-radius: 2px;
+                max-height: 60%;
+                height: 40%;
+                overflow: scroll;
+                border: 1px solid #181818;
+            }
+            .messages p {
+                padding: 2px;
+            }
+            .chat-other {
+                padding: 6px;
+            }
+        </style>
+
+        <div id="nicknameForm">
+            <input id="nicknameInput" placeholder="Enter your nickname" />
+            <button onclick="joinChat()">Join Chat</button>
+        </div>
+
+        <div class="chat">
+            <div class="chat-p">
+                <ul id="messages"></ul>
+            </div>
+            <div class="chat-other">
+
+                <input id="messageInput" placeholder="Напишите сообщение..." autocomplete="off" disabled />
+                <button id="sendButton" onclick="sendMessage()" disabled>Send</button>
+            </div>
+        </div>
+
+        <script src="https://cdn.socket.io/4.3.2/socket.io.js"></script>
+        <script>
+    const socket = io();
+    let nickname = '';
+
+    function joinChat() {
+        nickname = document.getElementById('nicknameInput').value;
+        if (nickname.trim() !== '') {
+            socket.emit('join', nickname);
+            document.getElementById('nicknameForm').style.display = 'none';
+            document.getElementById('messageInput').disabled = false;
+            document.getElementById('sendButton').disabled = false;
+        }
+    }
+
+    function sendMessage() {
+        const messageInput = document.getElementById('messageInput');
+        const message = messageInput.value;
+        if (message.trim() !== '') {
+            socket.emit('chat message', message);
+            messageInput.value = '';
+        }
+    }
+
+    socket.on('chat message', (msg) => {
+        const item = document.createElement('p');
+        item.textContent = msg;
+        document.getElementById('messages').appendChild(item);
+    });
+</script>
+    </body>
+</html>
